@@ -1,1 +1,1 @@
-![image](https://github.com/emreEngineering/low-poly-island/blob/main/envanto-render-v2.jpg)
+![image](https://github.com/emreEngineering/terraced-houses/blob/main/terraced-houses.png)
